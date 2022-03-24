@@ -1,0 +1,223 @@
+#positioning{
+	position: relative;
+}
+#mainweb{
+	background-image: url(https://www.gamepressure.com/i/h/4/497885100.jpg);
+	background-attachment: fixed;
+	background-size: 100em;
+}
+#bsb{
+	color: skyblue;
+}
+#tp{
+	position: sticky;
+}
+#classname{
+	text-align: center;
+	font-size: 6em;
+	font-family: Monofett;
+	text-shadow: 10px 50px 10px 10px white;
+}
+#myname{
+	text-align: center;
+	color:antiquewhite;
+	font-family: fleur de leah;
+	
+	text-shadow: 2px 2px seagreen;
+	font-size: 4em;
+}
+#gamename1{
+	background-image: url(https://wallup.net/wp-content/uploads/2019/09/07/653349-ori-blind-forest-action-adventure-rpg-ori-blind-forest-fantasy-magic-1oribf.jpg);
+	color: darkgrey;
+	margin-bottom: -20px;
+}
+ins,sup,.pricea,#pricea2,#classname,#Intro1,#tableadj,#gametype1,#questionnaire,#tableadj2,#persuation1{
+	color: white;
+}
+.notice{
+	color: darkorange;
+}
+#gametype1,#gamename1,#questionnaire,#tableadj,#tableadj2{
+	font-family: iceland;
+}
+#gametype1,#questionnaire,#gamename1,#gamename2,#gametype2{
+	font-size: 3em;
+}
+.notice,#persuation1,#tableadj,#galgame,#persuation2,#tableadj2{
+	font-size: 2em
+}
+.notice,#persuation1{
+	font-family: gugi;
+}
+#Intro1{
+	font-family: cursive;
+}
+#and{
+	color:red;
+}
+#gametype2{
+	color: lightblue;
+	font-family: festive;
+}
+#gamename2{
+	background-image: url("https://lmg.jj20.com/up/allimg/1113/061H0102U6/20061G02U6-1-1200.jpg");
+	font-family: Dancing Script;color:rgba(24, 141, 24, 0.75);
+	text-align: center;
+	margin-bottom: -20px;
+}
+#bs{
+	color:orange;
+}
+#persuation2{
+	font-family:Cinzel Decorative ;color:#f2f3c3
+}
+#anchor2{
+	color: white;
+	text-align: center;
+	font-family: iceland;
+	font-size: 3em;
+}
+#bs3{
+	color: orange;
+}
+img{
+	border:3px orange solid;
+}
+.aimage{
+	text-decoration: none;
+}
+.anation{
+	color: white;
+	font-family: iceland;
+	font-size: 3em;
+}
+.girls{
+	color: black;
+	font-family: iceland;
+	font-size: 3em;
+}
+
+#pcn:hover{
+	color: yellow;
+}
+#pge:hover{
+	color: darkgrey;
+}
+#pus:hover{
+	color: lightskyblue;
+}
+#pfr:hover{
+	color: darkblue;
+}
+.division{
+	width: 50%;
+	float: left;
+	margin-bottom: -75px;
+}
+.division2{
+	width: 50%;
+	float: left;
+	margin-bottom: -25px;
+}
+#murasame:hover{
+	color: lightgreen;
+}
+#hono:hover{
+	color: white;
+}
+#mako:hover{
+	color: black;
+}
+#koharu:hover{
+	color: lightpink;
+}
+#quesweb{
+	background-image:url(https://s.gamer-info.com/gl/h/e/a/r/hearts-of-iron-iv-no-step-back_w1010.jpg);
+	background-repeat: no-repeat;
+	background-size:195em;
+	background-attachment: fixed;
+	color: black;
+}
+*{
+	margin-top: 20px;
+}
+#head{
+	font-family: iceland;
+	font-size: 3em;
+	color: white;
+}
+form{
+	font-family: iceland;
+	font-size: 2em;
+}
+.bsw{
+	color:white;
+}
+#anchor3{
+	color: white;font-family: iceland;font-size: 3em;
+}
+table,th,td{
+	border: 2px white solid;
+	border-collapse: collapse;
+	padding-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+table{
+	text-align: center;
+}
+th{
+	background-color: orange;
+}
+td{
+	background-color: darkgreen
+}
+.cn:hover{
+	color: yellow;
+}
+.jp:hover{
+	color: white;
+}
+.ger:hover{
+	color: darkgrey;
+}
+.fra:hover{
+	color: lightblue;
+}
+.fin:hover{
+	color: white;
+}
+
+#gamename3{
+	font-family: Cinzel Decorative;
+	margin-bottom: -20px;
+	color: white;
+	font-size: 3em;
+	background-color: mediumpurple;
+}
+
+#secweb{
+	background-image: url(https://p2.bahamut.com.tw/B/2KU/11/7b2dc0d8674166a863fcc1cae217h7j5.JPG);
+	background-attachment: fixed;
+	color: purple;
+}
+#galgame{
+	font-family: Elsie Swash Caps;
+}
+#thirweb{
+	background-image: url(https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2020/02/oriandthewillofthewisps-screenshot-01.jpg);
+}
+#introori{
+	color: white;
+}
+#sg:hover{
+	color: greenyellow;
+}
+#yw:hover{
+	color: skyblue;
+}
+#bt:hover{
+	color: darkblue;
+}
+#dc:hover{
+	color: black;
